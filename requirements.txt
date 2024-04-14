@@ -3,3 +3,5 @@ langchain-openai
 streamlit
 PyPDF2
 python-dotenv
+sentence-transformers
+faiss-gpu
